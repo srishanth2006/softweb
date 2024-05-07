@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date:
+## Date:6-5-24
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -511,7 +511,7 @@ PRODUCT
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-06 143747-1.png>)
+c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-06 141044.png
 ![alt text](<Screenshot 2024-05-06 143810-1.png>)
 ![alt text](<Screenshot 2024-05-06 143918-1.png>)
  ![alt text](<Screenshot 2024-05-06 143852-1.png>)
