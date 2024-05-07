@@ -511,7 +511,7 @@ PRODUCT
 ```
 
 ## OUTPUT:
-c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-06 141044.png
+![c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-06 141044.png](<Screenshot 2024-05-06 143747.png>)
 ![alt text](<Screenshot 2024-05-06 143810-1.png>)
 ![alt text](<Screenshot 2024-05-06 143918-1.png>)
  ![alt text](<Screenshot 2024-05-06 143852-1.png>)
