@@ -29,7 +29,8 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 ```
-people.html
+
+person.html
 
 <!DOCTYPE html>
 <html lang="en">
@@ -57,7 +58,7 @@ people.html
         .first-div{
             position:absolute;
             top: 0;
-            /* bottom: 0; */
+            bottom: 0;
             right: 0;
             left: 0;
             border: 10px rgb(75, 94, 101) solid;
@@ -145,11 +146,22 @@ people.html
         <scan style="color: beige;">ROHIT SHARMA</scan>
         <scan><img src="surya.jpeg" alt="cairman"></scan>
         <scan style="color: beige;">SURYAKUMAR </scan>
+        <footer style="background-color:rgb(213, 112, 4);margin-top: 64; border: none;width: 100%;">
+            <P style="color:#1d045c; ;"align="center">Designed and Devoloped by SRISHANTH J 2024 </P>
+        </footer>
     </div>
     </div>
     </div>
+    
 </body>
+
+
 </html>
+
+
+
+
+
 
 product.html
 
@@ -271,13 +283,16 @@ PRODUCT
             
                 <scan class="cl"><img src="html.jpeg" alt="chairman"></scan>
                 <scan>HTML</scan>
-            
+                <footer style="background-color:rgb(213, 112, 4);margin-top: 64; border: none;width: 100%;">
+                    <P style="color:#1d045c; ;"align="center">Designed and Devoloped by SRISHANTH J 2024 </P>
+                </footer>
         </div>
         
     </div>
     </div>
 </body>
 </html>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -388,7 +403,9 @@ PRODUCT
         <div ><b>Landline:</b>140 8904 1353</div>
         <div><b>Phone:</b>9360246488</div>
         <div><b>Email:</b>srishanthcollege@gmail.com</div>
-        
+        <footer style="background-color:rgb(213, 112, 4);margin-top: 64; border: none;width: 100%;">
+            <P style="color:#1d045c; ;"align="center">Designed and Devoloped by SRISHANTH J 2024 </P>
+        </footer>
         
 
         
@@ -397,7 +414,9 @@ PRODUCT
     </div>
     </div>
 </body>
+
 </html>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -504,17 +523,19 @@ PRODUCT
         <div>srishanth Software Developing Center is a dynamic hub for software innovation, fostering collaboration and continuous learning. </div>
         <div>With a diverse team of talented individuals, the center excels in crafting elegant solutions to complex challenges. From intuitive user interfaces to scalable systems, srishanth Software Developing Center is dedicated to pushing boundaries and shaping the future of technology with creativity and innovation.</div>
         <div ><img src="software.jpeg" class="center"></div>
+        <footer style="background-color:rgb(213, 112, 4);margin-top: 64; border: none;width: 100%;">
+            <P style="color:#1d045c; ;"align="center">Designed and Devoloped by SRISHANTH J 2024 </P>
+        </footer>
     </div>
     </div>
 </body>
 </html>
 ```
-
 ## OUTPUT:
-![c:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-06 141044.png](<Screenshot 2024-05-06 143747.png>)
-![alt text](<Screenshot 2024-05-06 143810-1.png>)
-![alt text](<Screenshot 2024-05-06 143918-1.png>)
- ![alt text](<Screenshot 2024-05-06 143852-1.png>)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
